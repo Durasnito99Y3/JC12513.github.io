@@ -80,8 +80,8 @@
 }
 h1 {
   position: absolute;
-  top: 85%;
-  left: 50%;
+  top: 60px;
+  left: 85px;
   transform: translate(-50%, -50%);
   font-size: 40px;
   color: rgb(230, 221, 221);
